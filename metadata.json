@@ -1,0 +1,6 @@
+{
+  "name": "CareSIR",
+  "description": "Smart Baby Care & Parenting Assistant – Track feeding, diaper changes, hygiene, equipment sterilization, growth, and smart reminders offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

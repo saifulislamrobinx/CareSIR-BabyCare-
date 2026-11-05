@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CareSIR</string>
+    <string name="app_tagline">Every Little Moment, Cared For.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_activities">Activities</string>
+    <string name="nav_reminders">Reminders</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_profile">Profile</string>
+    <string name="action_log_feeding">Log Feeding</string>
+    <string name="action_log_diaper">Log Diaper</string>
+    <string name="action_complete_hygiene">Complete Hygiene</string>
+    <string name="action_clean_equipment">Clean Equipment</string>
+    <string name="action_add_reminder">Add Reminder</string>
+    <string name="medical_safety_feeding_note">Feeding intervals are customizable reminders only. Always follow your pediatrician\'s individualized feeding guidance.</string>
+    <string name="safety_equipment_cleaning_note">Always follow the equipment manufacturer\'s instructions and pediatric health guidelines for cleaning and sterilization.</string>
+    <string name="safety_hygiene_note">Perform gentle, age-appropriate newborn care. Consult your healthcare provider for umbilical cord and skin care questions.</string>
+    <string name="safety_reports_note">CareSIR analytics summarize recorded care routines and are not a medical diagnosis.</string>
+</resources>

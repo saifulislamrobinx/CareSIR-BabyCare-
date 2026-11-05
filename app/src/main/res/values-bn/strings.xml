@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CareSIR</string>
+    <string name="app_tagline">প্রতিটি ছোট মুহূর্ত, যত্নে ঘেরা।</string>
+    <string name="nav_home">হোম</string>
+    <string name="nav_activities">কার্যক্রম</string>
+    <string name="nav_reminders">রিমাইন্ডার</string>
+    <string name="nav_reports">রিপোর্ট</string>
+    <string name="nav_profile">প্রোফাইল</string>
+    <string name="action_log_feeding">খাওয়ানোর তথ্য</string>
+    <string name="action_log_diaper">ডায়াপার পরিবর্তন</string>
+    <string name="action_complete_hygiene">পরিচ্ছন্নতা</string>
+    <string name="action_clean_equipment">সরঞ্জাম পরিষ্কার</string>
+    <string name="action_add_reminder">রিমাইন্ডার যোগ</string>
+    <string name="medical_safety_feeding_note">খাওয়ানোর বিরতি কেবল কাস্টমাইজযোগ্য রিমাইন্ডার। সর্বদা আপনার শিশু বিশেষজ্ঞের পরামর্শ অনুসরণ করুন।</string>
+    <string name="safety_equipment_cleaning_note">পরিষ্কার ও জীবাণুমুক্ত করার জন্য সর্বদা প্রস্তুতকারকের নির্দেশাবলী এবং স্বাস্থ্য নির্দেশিকা অনুসরণ করুন।</string>
+    <string name="safety_hygiene_note">বয়স অনুযায়ী নবজাতকের যত্ন নিন। নাভি ও ত্বকের যত্নের জন্য চিকিৎসকের পরামর্শ নিন।</string>
+    <string name="safety_reports_note">CareSIR রিপোর্ট কেবল রেকর্ডকৃত তথ্যের সারাংশ, কোনো চিকিৎসা নির্ণয় নয়।</string>
+</resources>
